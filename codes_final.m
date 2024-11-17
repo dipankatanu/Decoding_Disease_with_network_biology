@@ -3,7 +3,6 @@
 % Load the cancer data
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% Download the prostrate cancer data from TCGA portal
 % Load the TCGA prostate cancer data
 load('TCGAprad.mat')
 
